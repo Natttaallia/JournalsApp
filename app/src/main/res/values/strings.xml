@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab5Kulbaka</string>
+    <string name="load">Завантажити</string>
+    <string name="look">Дивитись</string>
+    <string name="delete">Видалити</string>
+    <string name="hint_text">Введіть ID журналу</string>
+    <string name="start_load">Початок завантаження</string>
+    <string name="finish_load">Журнал завантажено!</string>
+    <string name="need_pdf_reader">Не встановлено додаток, що відкриває PDF файли</string>
+    <string name="file_delete">Файл видалено</string>
+    <string name="no_file">Файл з таким ID не існує!</string>
+    <string name="popup_text">
+        Додаток дозволяє завантажувати файли журналу Науково-технічний вісник. \n
+        Для завантаження необхідний ваш дозвіл на створення та читання файлів із сховища. \n
+        Вкажіть номер журналу та натисніть кнопку Завантаження\n
+        Не всі номера журналів є у наявності
+    </string>
+    <string name="checkbox_text">Більше не показувати</string>
+</resources>
